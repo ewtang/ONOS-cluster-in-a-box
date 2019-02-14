@@ -3,7 +3,7 @@ Docker containers which work with ONOS Scenario Test Coordinator (STC)
 
 Before building docker image:
 1. Put these files inside a directory.
-2. Copy $ONOS_ROOT/bazel-bin/onos.tar.gz here, assuming you have succeffully built one.
+2. Copy $ONOS_ROOT/bazel-bin/onos.tar.gz here, assuming you have successfully built one.
 3. Copy your public key ~/.ssh/id_rsa.pub here.
 
 
