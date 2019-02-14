@@ -1,5 +1,5 @@
 # ONOS-cluster-in-a-box
-Docker containers work with ONOS Scenario Test Coordinator (STC)
+Docker containers which work with ONOS Scenario Test Coordinator (STC)
 
 Before building docker image:
 1. Put these files inside a directory.
